@@ -5,3 +5,7 @@ edition = "2021"
 
 [lib]
 name = "adventofcode"
+
+[dependencies]
+anyhow = "1.0"
+itertools = "0.10"
